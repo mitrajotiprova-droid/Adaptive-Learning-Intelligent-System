@@ -73,7 +73,7 @@ Students receive customized content based on their learning progress, while educ
 </tr>
 </table>
 
----
+
 
 ## 🏗️ Technology Stack
 
